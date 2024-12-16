@@ -1,4 +1,4 @@
-﻿# Lead_Tracker
+﻿# lead_tracker
 - download the folder
 - go to chrome extension page
 - select 'load unpacked' and choose downloaded folder
